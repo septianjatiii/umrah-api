@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1022,
+    "name": "[1022] Umrah Liburan Super Istimewa",
+    "duration": "13D",
+    "hotelMakkah": "Royal Majestic (API)",
+    "hotelMadinah": "Plaza Inn Ohud (API)",
+    "departureAirport": "CGK",
+    "departureDate": "2025-12-20T10:00:00Z",
+    "priceIDR": 37500000,
+    "details": "Paket ini mencakup fasilitas bintang 5 dengan program ziarah lengkap dari API.",
+    "itinerary": "Day 1: Keberangkatan dari Jakarta. Day 2-5: Ibadah Makkah. Day 6-9: Ibadah Madinah. Day 10-13: Kembali ke Tanah Air."
+  },
+  {
+    "id": 1004,
+    "name": "[1004] Umrah Experience 10D",
+    "duration": "10D",
+    "hotelMakkah": "Emaar Al Afaq (API)",
+    "hotelMadinah": "Plaza Inn Ohud (API)",
+    "departureAirport": "SUB",
+    "departureDate": "2025-11-15T09:00:00Z",
+    "priceIDR": 28900000,
+    "details": "Paket Umrah Reguler 10 Hari dengan penerbangan transit.",
+    "itinerary": "Day 1: Keberangkatan dari Surabaya. Day 2-4: Ibadah Makkah. Day 5-7: Ibadah Madinah. Day 8-10: Kembali."
+  },
+  {
+    "id": 1031,
+    "name": "[1031] Umroh Hemat Direct 9D",
+    "duration": "9D",
+    "hotelMakkah": "Emaar Andalusia (API)",
+    "hotelMadinah": "Emaar Taiba (API)",
+    "departureAirport": "CGK",
+    "departureDate": "2025-11-05T14:00:00Z",
+    "priceIDR": 26500000,
+    "details": "Promo hemat dengan penerbangan langsung.",
+    "itinerary": "Program ibadah 9 hari di Tanah Suci."
+  },
+  {
+    "id": 1032,
+    "name": "[1032] Umrah Plus Turki 12D",
+    "duration": "12D",
+    "hotelMakkah": "Swissotel Al Maqam",
+    "hotelMadinah": "Anwar Al Madinah",
+    "departureAirport": "CGK",
+    "departureDate": "2026-01-10T11:00:00Z",
+    "priceIDR": 42000000,
+    "details": "Nikmati ibadah Umrah sekaligus mengunjungi Istanbul.",
+    "itinerary": "Day 1-3: Istanbul. Day 4-7: Madinah. Day 8-11: Makkah. Day 12: Kembali."
+  },
+  {
+    "id": 1033,
+    "name": "[1033] Paket Ramadhan Awal",
+    "duration": "10D",
+    "hotelMakkah": "Pullman Zamzam",
+    "hotelMadinah": "Frontel Al Harithia",
+    "departureAirport": "JOG",
+    "departureDate": "2026-03-20T15:00:00Z",
+    "priceIDR": 39500000,
+    "details": "Rasakan nikmatnya ibadah di awal bulan suci Ramadhan.",
+    "itinerary": "Program 10 hari di awal Ramadhan."
+  },
+  {
+    "id": 1034,
+    "name": "[1034] Paket Lailatul Qadar",
+    "duration": "15D",
+    "hotelMakkah": "Raffles Makkah Palace",
+    "hotelMadinah": "Dar Al Iman InterContinental",
+    "departureAirport": "CGK",
+    "departureDate": "2026-04-05T20:00:00Z",
+    "priceIDR": 55000000,
+    "details": "I'tikaf di 10 hari terakhir Ramadhan mencari Lailatul Qadar.",
+    "itinerary": "Program 15 hari di akhir Ramadhan, fokus i'tikaf."
+  },
+  {
+    "id": 1035,
+    "name": "[1035] Umrah Syawal",
+    "duration": "9D",
+    "hotelMakkah": "Makkah Towers",
+    "hotelMadinah": "Saja Al Madinah",
+    "departureAirport": "SUB",
+    "departureDate": "2026-04-25T08:00:00Z",
+    "priceIDR": 31000000,
+    "details": "Paket Umrah setelah Idul Fitri.",
+    "itinerary": "Program 9 hari di bulan Syawal."
+  },
+  {
+    "id": 1036,
+    "name": "[1036] Umrah Milad",
+    "duration": "9D",
+    "hotelMakkah": "Al Ghufran Safwah",
+    "hotelMadinah": "Millennium Al Aqeeq",
+    "departureAirport": "KNO",
+    "departureDate": "2025-12-01T13:00:00Z",
+    "priceIDR": 29800000,
+    "details": "Paket spesial Milad dari Medan.",
+    "itinerary": "Keberangkatan dari Kualanamu."
+  },
+  {
+    "id": 1037,
+    "name": "[1037] Umrah Plus Dubai",
+    "duration": "11D",
+    "hotelMakkah": "Royal Majestic (API)",
+    "hotelMadinah": "Anwar Al Madinah",
+    "departureAirport": "CGK",
+    "departureDate": "2026-02-14T16:00:00Z",
+    "priceIDR": 41500000,
+    "details": "Kunjungi Dubai sebelum melanjutkan ibadah Umrah.",
+    "itinerary": "Day 1-2: Dubai. Day 3-11: Program Umrah."
+  },
+  {
+    "id": 1038,
+    "name": "[1038] Umrah Reguler Bintang 4",
+    "duration": "9D",
+    "hotelMakkah": "Elaf Kinda",
+    "hotelMadinah": "Zowar International",
+    "departureAirport": "JOG",
+    "departureDate": "2025-11-30T10:00:00Z",
+    "priceIDR": 27500000,
+    "details": "Paket ekonomis dengan fasilitas hotel bintang 4.",
+    "itinerary": "Program reguler 9 hari dari Yogyakarta."
+  }
+]
