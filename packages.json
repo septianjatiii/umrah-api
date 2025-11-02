@@ -9,12 +9,7 @@
     "departureDate": "2025-12-20T10:00:00Z",
     "priceIDR": 37500000,
     "details": "Paket ini mencakup fasilitas bintang 5 dengan program ziarah lengkap dari API.",
-    "itinerary": "Day 1: Keberangkatan dari Jakarta. Day 2-5: Ibadah Makkah. Day 6-9: Ibadah Madinah. Day 10-13: Kembali ke Tanah Air.",
-    "roomPrices": {
-      "Quad": 37500000,
-      "Triple": 39000000,
-      "Double": 42000000
-    }
+    "itinerary": "Day 1: Keberangkatan dari Jakarta. Day 2-5: Ibadah Makkah. Day 6-9: Ibadah Madinah. Day 10-13: Kembali ke Tanah Air."
   },
   {
     "id": 1004,
@@ -26,12 +21,7 @@
     "departureDate": "2025-11-15T09:00:00Z",
     "priceIDR": 28900000,
     "details": "Paket Umrah Reguler 10 Hari dengan penerbangan transit.",
-    "itinerary": "Day 1: Keberangkatan dari Surabaya. Day 2-4: Ibadah Makkah. Day 5-7: Ibadah Madinah. Day 8-10: Kembali.",
-    "roomPrices": {
-      "Quad": 28900000,
-      "Triple": 30000000,
-      "Double": 32500000
-    }
+    "itinerary": "Day 1: Keberangkatan dari Surabaya. Day 2-4: Ibadah Makkah. Day 5-7: Ibadah Madinah. Day 8-10: Kembali."
   },
   {
     "id": 1031,
@@ -43,11 +33,6 @@
     "departureDate": "2025-11-05T14:00:00Z",
     "priceIDR": 26500000,
     "details": "Promo hemat dengan penerbangan langsung.",
-    "itinerary": "Program ibadah 9 hari di Tanah Suci.",
-    "roomPrices": {
-      "Quad": 26500000,
-      "Triple": 27500000,
-      "Double": 29000000
-    }
+    "itinerary": "Program ibadah 9 hari di Tanah Suci."
   }
 ]
